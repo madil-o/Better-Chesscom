@@ -1,0 +1,56 @@
+
+body {
+    background-color: #282828;
+    color:#eddbb2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.title {
+    font-size: 28px;
+}
+
+.link {
+    display: inline-block;
+    padding: 3px 5px;
+    border: 1px solid #000;
+    background: #eee
+}
+
+.analyse-button {
+    margin: 15px 0px 15px 0px;
+    width: 90px;
+}
+
+#login-screen{
+    text-align:center;
+}
+
+.overview_won {
+    margin:auto;
+    justify-content: space-between; 
+    display: flex;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 1500px;
+    height: 80px;
+    border-radius: 15px;
+    margin-bottom: 7px;
+    background-color: green;
+}
+
+.overview_lost {
+    margin:auto;
+    justify-content: space-between; 
+    display: flex;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 1500px;
+    height: 80px;
+    border-radius: 15px;
+    margin-bottom: 7px;
+    background-color: red;
+}
+
+#search-bar {
+    width: 350px;
+}
